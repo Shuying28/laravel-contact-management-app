@@ -23,7 +23,7 @@ Demo app : <https://laravel-inertia-vuetify.fly.dev>
 Clone repo locally
 
 ```bash
-git clone https://github.com/Shuying28/laravel-contact-management-app
+git clone https://github.com/Shuying28/laravel-contact-management-app.git
 ```
 
 Install PHP dependencies
