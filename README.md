@@ -4,7 +4,7 @@ A laravel inertiajs vuetify contact management system
 
 ## Demo
 
-You can access demo app in : <https://laravel-inertia-vuetify.fly.dev>
+Demo app : <https://laravel-inertia-vuetify.fly.dev>
 
 ## Features
 
